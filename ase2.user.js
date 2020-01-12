@@ -4,6 +4,8 @@
 // @version      1.0.0
 // @description  download file
 // @author       collinb1129
+// @updateURL    https://github.com/collinb1129/ASE2/raw/master/ase2.user.js
+// @downloadURL  https://github.com/collinb1129/ASE2/raw/master/ase2.user.js
 // @require      http://code.jquery.com/jquery-latest.js
 // @match        http*://www.analog.com/en/products/*
 // @grant        none
